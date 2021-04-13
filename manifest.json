@@ -1102,22 +1102,6 @@
     "wallet_conf": "innova--v4.3.8.6.conf"
   },
   {
-    "blockchain": "Internet of People",
-    "ticker": "IOP",
-    "ver_id": "iop--v6.1.0",
-    "ver_name": "Internet of People",
-    "conf_name": "iop.conf",
-    "dir_name_linux": "iop",
-    "dir_name_mac": "IoP",
-    "dir_name_win": "IoP",
-    "repo_url": "https://github.com/Internet-of-People/iop-core",
-    "versions": [
-      "v6.3.0"
-    ],
-    "xbridge_conf": "iop--v6.2.3.conf",
-    "wallet_conf": "iop--v6.2.3.conf"
-  },
-  {
     "blockchain": "Ixcoin",
     "ticker": "IXC",
     "ver_id": "ixcoin--v0.14.1",
@@ -1683,7 +1667,7 @@
   {
     "blockchain": "Phore",
     "ticker": "PHR",
-    "ver_id": "phore--v1.3.3.1",
+    "ver_id": "phore--v1.7.0",
     "ver_name": "Phore",
     "conf_name": "phore.conf",
     "dir_name_linux": "phore",
@@ -1691,10 +1675,10 @@
     "dir_name_win": "Phore",
     "repo_url": "https://github.com/phoreproject/Phore",
     "versions": [
-      "v1.6.3"
+      "v1.7.0"
     ],
-    "xbridge_conf": "phore--v1.3.3.1.conf",
-    "wallet_conf": "phore--v1.3.3.1.conf"
+    "xbridge_conf": "phore--v1.7.0.conf",
+    "wallet_conf": "phore--v1.7.0.conf"
   },
   {
     "blockchain": "PIVX",
@@ -1830,7 +1814,7 @@
   {
     "blockchain": "Ravencoin",
     "ticker": "RVN",
-    "ver_id": "raven--v0.15.99.0",
+    "ver_id": "raven--v4.3.2",
     "ver_name": "Ravencoin",
     "conf_name": "raven.conf",
     "dir_name_linux": "raven",
@@ -1838,12 +1822,11 @@
     "dir_name_win": "Raven",
     "repo_url": "https://github.com/RavenProject/Ravencoin",
     "versions": [
-      "v4.1.0",
-      "v4.2.0",
-      "v4.2.1"
+      "v4.3.2",
+      "v4.3.2.1"
     ],
-    "xbridge_conf": "raven--v0.15.99.0.conf",
-    "wallet_conf": "raven--v0.15.99.0.conf"
+    "xbridge_conf": "raven--v4.3.2.conf",
+    "wallet_conf": "raven--v4.3.2.conf"
   },
   {
     "blockchain": "Reecore",
