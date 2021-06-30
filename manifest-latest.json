@@ -2089,6 +2089,22 @@
     "wallet_conf": "tribe--v1.0.0.conf"
   },
   {
+    "blockchain": "Trittium",
+    "ticker": "TRTT",
+    "ver_id": "trittium--v3.0.2.0",
+    "ver_name": "trittium--v3.0.2.0",
+    "conf_name": "trittium2.conf",
+    "dir_name_linux": "trittium2",
+    "dir_name_mac": "trittium2",
+    "dir_name_win": "trittium2",
+    "repo_url": "https://github.com/Trittium/trittium",
+    "versions": [
+      "v3.0.2.0"
+    ],
+    "xbridge_conf": "trittium--v3.0.2.0.conf",
+    "wallet_conf": "trittium--v3.0.2.0.conf"
+  },
+  {
     "blockchain": "Uniform Fiscal Object",
     "ticker": "UFO",
     "ver_id": "ufocoin--v0.17.0",
@@ -2267,23 +2283,6 @@
     ],
     "xbridge_conf": "xcurrency--v3.0.05.conf",
     "wallet_conf": "xcurrency--v3.0.05.conf"
-  },
-  {
-    "blockchain": "ZCoin",
-    "ticker": "XZC",
-    "ver_id": "zcoin--v0.13.6.4",
-    "ver_name": "ZCoin",
-    "conf_name": "zcoin.conf",
-    "dir_name_linux": "zcoin",
-    "dir_name_mac": "zcoin",
-    "dir_name_win": "zcoin",
-    "repo_url": "https://github.com/zcoinofficial/zcoin",
-    "versions": [
-      "v0.14.0.1",
-      "v0.14.0.2"
-    ],
-    "xbridge_conf": "zcoin--v0.13.6.4.conf",
-    "wallet_conf": "zcoin--v0.13.6.4.conf"
   },
   {
     "blockchain": "ZENZO",
